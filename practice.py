@@ -13,4 +13,8 @@ for i in range(0,n):
 
 m=int(input())
 for i in range(m):
-    print(" "*i+"*"*(m-i))
+    print(" "*i+"*"*(m-i)) 
+    
+
+
+
