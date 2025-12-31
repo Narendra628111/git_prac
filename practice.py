@@ -11,9 +11,6 @@ for i in range(0,n):
     print()
 
 
-m=int(input())
-for i in range(m):
-    print(" "*i+"*"*(m-i)) 
     
 
 
